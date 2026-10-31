@@ -2,7 +2,7 @@
 
 **Gideon Gideon. Senior Full-Stack Engineer & Blockchain Architect. Founder, Gimablockchain**
 
-Senior engineer and founder building production software across blockchain infrastructure and fintech. I own the full delivery lifecycle: system architecture, smart contract development, backend APIs, frontend engineering, cloud deployment, and go-to-market. All product source code is private (commercial IP); available for technical walkthrough on request.
+Senior engineer and founder building production software across blockchain infrastructure, fintech, and privacy-first tools. I own the full delivery lifecycle: system architecture, smart contract development, backend APIs, frontend engineering, cloud deployment, and go-to-market. All product source code is private (commercial IP); available for technical walkthrough on request.
 
 ## 1. Gima RPV-20. Rug-Proof Vault Standard (BSC Testnet)
 
@@ -35,14 +35,21 @@ Senior engineer and founder building production software across blockchain infra
 
 **Live product:** https://thespark.cash
 
-## 3. Developer Portfolio & Tools
+## 3. StillPDF. Client-Side PDF Toolkit
 
-A deployed portfolio and utility platform showcasing shipped work, technical tooling, and product experiments.
+**Problem.** Most free PDF tools upload your documents to external servers, which is a privacy risk for contracts, IDs, and financial records.
 
-- Hosted on Cloudflare Workers for low-latency global delivery
-- Built and maintained as a live sandbox for new frontend and edge-runtime techniques
+**What I built.** A browser-based PDF toolkit that processes files entirely on the user's device. No upload, no server round-trip, no document retention. Includes page preview, selective extraction, and instant download, plus anonymous aggregate usage metrics with no tracking of files or identities.
 
-**Live:** https://still.stillpdf.workers.dev (Cloudflare Workers)
+- **Local processing:** all file handling runs client-side in the browser
+- **Split and extract:** preview each page, select specific pages, download a clean new PDF
+- **Merge:** combine documents without uploading
+- **Privacy-first metrics:** anonymous counts only, no file names, no user tracking
+- **Monetization:** free tier with upgrade path for unlimited merges
+
+**Stack:** Cloudflare Workers, TypeScript, client-side PDF processing
+
+**Live product:** https://still.stillpdf.workers.dev
 
 ## Technical Skills
 
@@ -99,4 +106,3 @@ A deployed portfolio and utility platform showcasing shipped work, technical too
 
 - **LinkedIn:** https://linkedin.com/in/gideon-gideon-924645194
 - **Email:** gideonandcobuilding@gmail.com
-- **Portfolio:** https://still.stillpdf.workers.dev
