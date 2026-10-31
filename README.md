@@ -106,3 +106,6 @@ Senior engineer and founder building production software across blockchain infra
 
 - **LinkedIn:** https://linkedin.com/in/gideon-gideon-924645194
 - **Email:** gideonandcobuilding@gmail.com
+- **Phone / WhatsApp:** +234 703 883 0301
+- **Phone /Call:** +234 8029955942
+- **Telegram:** https://t.me/gima_capital
