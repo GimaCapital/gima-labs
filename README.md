@@ -31,7 +31,7 @@ Senior engineer and founder building production software across blockchain infra
 - **Tiered subscriptions:** progressive access tied to consistency and savings volume
 - **Realtime data layer:** Firestore-backed state with live sync across sessions
 
-**Stack:** Next.js, TypeScript, Tailwind CSS, Node.js, Firebase, Firestore, Render
+**Stack:** React, Tailwind CSS, Node.js, Firebase, Firestore, Render, etc
 
 **Live product:** https://thespark.cash
 
